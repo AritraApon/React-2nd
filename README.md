@@ -1,3 +1,56 @@
+
+
+# React 2nd Project
+
+This is my second project while learning React.  
+The main goal of this project is to practice basic React concepts and understand how components work.
+
+## 🚀 What I Practiced
+- React Components
+- Props
+- State management
+- Basic UI structure
+- Project structure in React
+
+## 🛠️ Technologies Used
+- React
+- JavaScript (ES6)
+- HTML
+- CSS
+
+## 📚 What I Learned
+While building this project I learned:
+- How React components work
+- How to pass data using props
+- How to organize files inside a React project
+- How to build small UI with React
+
+## ▶️ Run the Project
+
+Clone the repository:
+
+```bash
+git clone https://github.com/AritraApon/React-2nd.git
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
