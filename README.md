@@ -25,28 +25,6 @@ While building this project I learned:
 - How to organize files inside a React project
 - How to build small UI with React
 
-## ▶️ Run the Project
-
-Clone the repository:
-
-```bash
-git clone https://github.com/AritraApon/React-2nd.git
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
